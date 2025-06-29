@@ -1,6 +1,6 @@
 <div align="center">
     <img src="https://raw.githubusercontent.com/Vergonn/Vergonn/master/assets/pepe-stare.png" width="25%" align="right" />
-    <img src="https://readme-typing-svg.demolab.com?font=Consolas&size=42&duration=4000&pause=300&color=5C8F37&center=true&vCenter=true&width=2200&height=200&lines=Just+coding+for+the+joy+of+it...+at+least+until+the+bugs+start+talking+back+and+make+me+crazy;Crazy%3F;I+Was+Crazy+Once;They+Locked+Me+In+A+Room;A+Rubber+Room;A+Rubber+Room+With+Rats;And+Rats+Make+Me+Crazy" width="70%" />
+    <img src="https://readme-typing-svg.demolab.com?font=Consolas&size=50&duration=4000&pause=300&color=5C8F37&center=true&vCenter=true&width=1870&height=200&lines=Coding+for+the+joy+of+it...++until+the+bugs+start+talking+back%2C+crazy;Crazy%3F;I+Was+Crazy+Once;They+Locked+Me+In+A+Room;A+Rubber+Room;A+Rubber+Room+With+Rats;And+Rats+Make+Me+Crazy" width="70%" />
     <br><br>
     <pre>
         💻 Web & Game Dev • Logic & Concepts • Story
